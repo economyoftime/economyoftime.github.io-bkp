@@ -2,6 +2,8 @@
 
 How do you value your time? Many people used to say 'time is money', but there was never a currency to account for it until now.
 
+Time is finite for everyone and everything. Give it a value and trade your time!
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
