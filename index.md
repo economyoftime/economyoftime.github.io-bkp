@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## The Digital Economy of Time
 
-You can use the [editor on GitHub](https://github.com/economyoftime/economyoftime.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+How do you value your time? Many people used to say 'time is money', but there was never a currency to account for it until now.
 
 ### Markdown
 
